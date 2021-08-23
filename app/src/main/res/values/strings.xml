@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">حساب المعدل الفصلي</string>
+    <string name="viditext">"0.0"</string>
+    <string name="hint3chrin">"0/20"</string>
+    <string name="amhiklch">""</string>
+    <string name="hintRb3in">"0/40</string>
+    <string name="hintZero">"0</string>
+    <string name="_0_20">0/20</string>
+    <string name="total">Total:</string>
+</resources>

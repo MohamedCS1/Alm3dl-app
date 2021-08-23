@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="one">
+        <item>حساب</item>
+        <item>المعدل</item>
+        <item>جميع الشعب</item>
+    </string-array>
+</resources>

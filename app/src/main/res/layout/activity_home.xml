@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:livebutton="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EFADAD"
+    android:orientation="vertical"
+    tools:context=".home">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#D38D8D"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0"
+            android:background="#EFADAD"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="0.5pt"
+                android:layout_marginRight="0.5pt"
+                android:layout_weight="0"
+                android:gravity="center"
+                android:paddingRight="1pt"
+                android:text="حساب المعدل الفصلي:"
+                android:textColor="#000000"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="204dp"
+                android:layout_margin="1pt"
+                android:background="#EFADAD"
+                android:orientation="vertical"
+                android:paddingTop="3pt">
+
+
+                <ru.katso.livebutton.LiveButton
+                    android:id="@+id/button1"
+                    android:layout_width="match_parent"
+                    android:layout_height="53dp"
+                    android:gravity="center"
+                    android:text="السنة الأولى ثانوي"
+                    android:textColor="#000000"
+                    android:textSize="24sp"
+
+                    android:textStyle="bold"
+                    livebutton:backgroundColor="#AFBEEA"
+                    livebutton:normalHeight="4dp"
+                    livebutton:pressedHeight="0dp"
+                    livebutton:shadowColor="#000000" />
+
+                <ru.katso.livebutton.LiveButton
+                    android:id="@+id/button2"
+                    android:layout_width="match_parent"
+                    android:layout_height="53dp"
+                    android:layout_marginTop="2pt"
+                    android:gravity="center"
+                    android:text="السنة الثانية ثانوي"
+                    android:textColor="#000000"
+                    android:textSize="24sp"
+                    android:textStyle="bold"
+                    livebutton:backgroundColor="#AFBEEA"
+                    livebutton:normalHeight="4dp"
+                    livebutton:pressedHeight="0dp"
+                    livebutton:shadowColor="#000000" />
+
+                <ru.katso.livebutton.LiveButton
+                    android:id="@+id/button3"
+                    android:layout_width="match_parent"
+                    android:layout_height="53dp"
+                    android:layout_marginTop="2pt"
+                    android:gravity="center"
+                    android:text="السنة الثالثة ثانوي"
+                    android:textColor="#000000"
+                    android:textSize="24sp"
+                    android:textStyle="bold"
+                    livebutton:backgroundColor="#AFBEEA"
+                    livebutton:normalHeight="4dp"
+                    livebutton:pressedHeight="0dp"
+                    livebutton:shadowColor="#000000" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:layout_marginTop="10pt"
+            android:layout_marginBottom="10pt"
+            android:layout_weight="0"
+            android:background="#EFADAD"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView24"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="0"
+                android:gravity="center"
+                android:paddingTop="3pt"
+                android:text=" الباكالوريا:"
+                android:textColor="#000000"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <ru.katso.livebutton.LiveButton
+                android:id="@+id/button4"
+                android:layout_width="match_parent"
+                android:layout_height="53dp"
+                android:layout_marginLeft="1.5pt"
+                android:layout_marginTop="2pt"
+                android:layout_marginRight="1.5pt"
+                android:layout_weight="0"
+                android:text="حساب معدل الباكالوريا"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                livebutton:backgroundColor="#AFBEEA"
+                livebutton:normalHeight="4dp"
+                livebutton:pressedHeight="0dp"
+                livebutton:shadowColor="#000000" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#EFADAD"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView23"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="0.5pt"
+                android:layout_marginRight="0.5pt"
+                android:layout_marginBottom="3pt"
+                android:layout_weight="0"
+                android:background="#EFADAD"
+                android:gravity="center"
+                android:paddingTop="3pt"
+                android:text="معدل القسم:"
+                android:textColor="#000000"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <ru.katso.livebutton.LiveButton
+                android:id="@+id/button5"
+                android:layout_width="match_parent"
+                android:layout_height="53dp"
+                android:layout_marginLeft="1.5pt"
+                android:layout_marginRight="1.5pt"
+                android:layout_weight="0"
+                android:text="حساب معدل القسم"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                livebutton:backgroundColor="#AFBEEA"
+                livebutton:normalHeight="4dp"
+                livebutton:pressedHeight="0dp"
+                livebutton:shadowColor="#000000" />
+        </LinearLayout>
+    </LinearLayout>
+
+
+</ScrollView>

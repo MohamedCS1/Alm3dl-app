@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Moh Amd/Desktop/Alm3adlApp/app/src/main/res/drawable-v21/rippleeffect.xml" value="0.176953125" />
+        <entry key="..\:/Users/Moh Amd/Desktop/Alm3adlApp/app/src/main/res/drawable/rippleeffect.xml" value="0.176953125" />
+        <entry key="..\:/Users/Moh Amd/Desktop/Alm3adlApp/app/src/main/res/layout/activity_home.xml" value="0.2189207650273224" />
+        <entry key="..\:/Users/Moh Amd/Desktop/Alm3adlApp/app/src/main/res/layout/ahsb.xml" value="0.2189207650273224" />
+        <entry key="..\:/Users/Moh Amd/Desktop/Alm3adlApp/app/src/main/res/layout/alert.xml" value="0.2189207650273224" />
+        <entry key="..\:/Users/Moh Amd/Desktop/Alm3adlApp/app/src/main/res/layout/alertdialogbac.xml" value="0.2189207650273224" />
+        <entry key="..\:/Users/Moh Amd/Desktop/Alm3adlApp/app/src/main/res/layout/gestionbac.xml" value="0.2189207650273224" />
+        <entry key="..\:/Users/Moh Amd/Desktop/Alm3adlApp/app/src/main/res/layout/hsabm3dl1anneeliterary.xml" value="0.2189207650273224" />
+        <entry key="..\:/Users/Moh Amd/Desktop/Alm3adlApp/app/src/main/res/layout/hsabm3dl1anneesentfic.xml" value="0.2189207650273224" />
+        <entry key="..\:/Users/Moh Amd/Desktop/Alm3adlApp/app/src/main/res/layout/hsabm3dl2anee_gestion.xml" value="0.2" />
+        <entry key="..\:/Users/Moh Amd/Desktop/Alm3adlApp/app/src/main/res/layout/hsabm3dl2aneeflsafa.xml" value="0.1640625" />
+        <entry key="..\:/Users/Moh Amd/Desktop/Alm3adlApp/app/src/main/res/layout/hsabm3dl2aneelong.xml" value="0.1640625" />
+        <entry key="..\:/Users/Moh Amd/Desktop/Alm3adlApp/app/src/main/res/layout/hsabm3dl2aneesentfic.xml" value="0.1640625" />
+        <entry key="..\:/Users/Moh Amd/Desktop/Alm3adlApp/app/src/main/res/layout/hsabm3dl2anneemath.xml" value="0.2189207650273224" />
+        <entry key="..\:/Users/Moh Amd/Desktop/Alm3adlApp/app/src/main/res/layout/hsabm3dl2anneetr.xml" value="0.1640625" />
+        <entry key="..\:/Users/Moh Amd/Desktop/Alm3adlApp/app/src/main/res/layout/hsabm3dl3aneeflsafa.xml" value="0.1092896174863388" />
+        <entry key="..\:/Users/Moh Amd/Desktop/Alm3adlApp/app/src/main/res/layout/hsabm3dl3aneegestion.xml" value="0.1640625" />
+        <entry key="..\:/Users/Moh Amd/Desktop/Alm3adlApp/app/src/main/res/layout/hsabm3dl3aneelong.xml" value="0.1092896174863388" />
+        <entry key="..\:/Users/Moh Amd/Desktop/Alm3adlApp/app/src/main/res/layout/hsabm3dl3aneemath.xml" value="0.1640625" />
+        <entry key="..\:/Users/Moh Amd/Desktop/Alm3adlApp/app/src/main/res/layout/hsabm3dl3aneesentfic.xml" value="0.1640625" />
+        <entry key="..\:/Users/Moh Amd/Desktop/Alm3adlApp/app/src/main/res/layout/hsabm3dl3aneetr.xml" value="0.1640625" />
+        <entry key="..\:/Users/Moh Amd/Desktop/Alm3adlApp/app/src/main/res/layout/progressdialog.xml" value="0.1640625" />
+        <entry key="..\:/Users/Moh Amd/Desktop/Alm3adlApp/app/src/main/res/layout/resulet1eranneesentfic.xml" value="0.16484375" />
+        <entry key="..\:/Users/Moh Amd/Desktop/Alm3adlApp/app/src/main/res/layout/trbac.xml" value="0.2189207650273224" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

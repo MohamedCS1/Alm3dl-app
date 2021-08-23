@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:livebutton="http://schemas.android.com/apk/res-auto"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:background="#000000"
+    android:orientation="vertical"
+    tools:context=".moyenclass.slider">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="1pt"
+        android:background="#FFFFFF"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/textView16"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="حدد عدد التلاميذ"
+                android:textColor="#000000"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+        <com.ramotion.fluidslider.FluidSlider
+            android:id="@+id/slider"
+            android:layout_width="match_parent"
+            android:layout_height="219dp"
+            android:layout_gravity="center"
+
+            android:layout_marginBottom="1pt"
+            app:bar_color="@color/bleu"
+            app:bubble_color="@color/fbutton_color_concrete"
+
+            app:bubble_text_color="@color/black"
+            app:end_text="99"
+            app:start_text="1"
+            app:text_size="8pt">
+
+        </com.ramotion.fluidslider.FluidSlider>
+
+        <ru.katso.livebutton.LiveButton
+            android:id="@+id/start"
+            android:layout_width="117dp"
+            android:layout_height="41dp"
+            android:layout_gravity="center"
+            android:text="إبدأ"
+            livebutton:backgroundColor="#AFBEEA"
+            livebutton:normalHeight="4dp"
+            livebutton:pressedHeight="0dp"
+            livebutton:shadowColor="#000000">
+
+        </ru.katso.livebutton.LiveButton>
+    </LinearLayout>
+</LinearLayout>
